@@ -1,9 +1,8 @@
+// vite.config.js
 import { defineConfig } from 'vite'
-import react from '@vitejs/plugin-react'
+import react from '@vitejs/react-refresh'
 
 export default defineConfig({
   plugins: [react()],
-  // เปลี่ยนตรงนี้ให้เป็นชื่อ Repository ใน GitHub ของคุณ 
-  // เช่น ถ้า repo ชื่อ my-flashcards ให้แก้เป็น base: '/my-flashcards/',
-  base: '/ชื่อ-repo-ของคุณ/', 
+  base: "/Eng-3000/", // <--- ต้องใส่ชื่อ Repository ของคุณตรงนี้เป๊ะๆ นะครับ!
 })
