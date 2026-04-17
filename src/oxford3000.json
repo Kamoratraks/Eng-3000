@@ -31,7 +31,7 @@
   { "word": "acknowledge", "emoji": "🙋‍♂️", "ipa": "/əkˈnɑː.lɪdʒ/" },
   { "word": "acquire", "emoji": "🛒", "ipa": "/əˈkwaɪɚ/" },
   { "word": "across", "emoji": "🌉", "ipa": "/əˈkrɑːs/" },
-  { "word": "act", "emoji": "🎬", "ipa": "/ækt/" }
+  { "word": "act", "emoji": "🎬", "ipa": "/ækt/" },
   { "word": "action", "emoji": "🎬", "ipa": "/ˈæk.ʃən/" },
   { "word": "active", "emoji": "🏃‍♂️", "ipa": "/ˈæk.tɪv/" },
   { "word": "activist", "emoji": "🪧", "ipa": "/ˈæk.tɪ.vɪst/" },
@@ -73,7 +73,7 @@
   { "word": "afternoon", "emoji": "🌇", "ipa": "/ˌæf.tɚˈnuːn/" },
   { "word": "afterward", "emoji": "🔜", "ipa": "/ˈæf.tɚ.wɚd/" },
   { "word": "again", "emoji": "🔄", "ipa": "/əˈɡen/" },
-  { "word": "against", "emoji": "🥊", "ipa": "/əˈɡenst/" }
+  { "word": "against", "emoji": "🥊", "ipa": "/əˈɡenst/" },
   { "word": "age", "emoji": "🎂", "ipa": "/eɪdʒ/" },
   { "word": "aged", "emoji": "👴", "ipa": "/eɪdʒd/" },
   { "word": "agency", "emoji": "🏢", "ipa": "/ˈeɪ.dʒən.si/" },
@@ -98,7 +98,7 @@
   { "word": "all", "emoji": "💯", "ipa": "/ɑːl/" },
   { "word": "allied", "emoji": "🛡️", "ipa": "/ˈæl.aɪd/" },
   { "word": "allow of", "emoji": "👐", "ipa": "/əˈlaʊ əv/" },
-  { "word": "ally", "emoji": "🤝", "ipa": "/ˈæl.aɪ/" }
+  { "word": "ally", "emoji": "🤝", "ipa": "/ˈæl.aɪ/" },
   { "word": "almost", "emoji": "🤏", "ipa": "/ˈɑːl.moʊst/" },
   { "word": "alone", "emoji": "🚶‍♂️", "ipa": "/əˈloʊn/" },
   { "word": "along", "emoji": "🛣️", "ipa": "/əˈlɑːŋ/" },
@@ -149,7 +149,7 @@
   { "word": "anticipate", "emoji": "🔮", "ipa": "/ænˈtɪs.ə.peɪt/" },
   { "word": "anxiety", "emoji": "😰", "ipa": "/æŋˈzaɪ.ə.ti/" },
   { "word": "anxious", "emoji": "😥", "ipa": "/ˈæŋk.ʃəs/" },
-  { "word": "any", "emoji": "❓", "ipa": "/ˈen.i/" }
+  { "word": "any", "emoji": "❓", "ipa": "/ˈen.i/" },
   { "word": "anymore", "emoji": "🚫", "ipa": "/ˌen.iˈmɔːr/" },
   { "word": "anyone", "emoji": "🧑", "ipa": "/ˈen.i.wʌn/" },
   { "word": "anything", "emoji": "📦", "ipa": "/ˈen.i.θɪŋ/" },
@@ -198,7 +198,7 @@
   { "word": "artist", "emoji": "🧑‍🎨", "ipa": "/ˈɑːr.t̬ɪst/" },
   { "word": "artistic", "emoji": "🎭", "ipa": "/ɑːrˈtɪs.tɪk/" },
   { "word": "as", "emoji": "⚖️", "ipa": "/æz/" },
-  { "word": "ashamed", "emoji": "😳", "ipa": "/əˈʃeɪmd/" }
+  { "word": "ashamed", "emoji": "😳", "ipa": "/əˈʃeɪmd/" },
   { "word": "aside", "emoji": "↔️", "ipa": "/əˈsaɪd/" },
   { "word": "aside from", "emoji": "➖", "ipa": "/əˈsaɪd frəm/" },
   { "word": "ask", "emoji": "❓", "ipa": "/æsk/" },
@@ -240,7 +240,7 @@
   { "word": "aware", "emoji": "👁️", "ipa": "/əˈwer/" },
   { "word": "away", "emoji": "💨", "ipa": "/əˈweɪ/" },
   { "word": "awful", "emoji": "🤮", "ipa": "/ˈɑː.fəl/" },
-  { "word": "awkward", "emoji": "😬", "ipa": "/ˈɑː.kwɚd/" }
+  { "word": "awkward", "emoji": "😬", "ipa": "/ˈɑː.kwɚd/" },
   { "word": "baby", "emoji": "👶", "ipa": "/ˈbeɪ.bi/" },
   { "word": "back", "emoji": "🔙", "ipa": "/bæk/" },
   { "word": "background", "emoji": "🖼️", "ipa": "/ˈbæk.ɡraʊnd/" },
@@ -298,7 +298,7 @@
   { "word": "believe", "emoji": "🙏", "ipa": "/bɪˈliːv/" },
   { "word": "bell", "emoji": "🔔", "ipa": "/bel/" },
   { "word": "belong", "emoji": "🧩", "ipa": "/bɪˈlɑːŋ/" },
-  { "word": "below", "emoji": "⬇️", "ipa": "/bɪˈloʊ/" }
+  { "word": "below", "emoji": "⬇️", "ipa": "/bɪˈloʊ/" },
   { "word": "belt", "emoji": "🥋", "ipa": "/belt/" },
   { "word": "bend", "emoji": "↪️", "ipa": "/bend/" },
   { "word": "beneath", "emoji": "⬇️", "ipa": "/bɪˈniːθ/" },
@@ -398,7 +398,7 @@
   { "word": "bush", "emoji": "🌳", "ipa": "/bʊʃ/" },
   { "word": "business", "emoji": "💼", "ipa": "/ˈbɪz.nɪs/" },
   { "word": "businessman", "emoji": "👨‍💼", "ipa": "/ˈbɪz.nɪs.mæn/" },
-  { "word": "businesswoman", "emoji": "👩‍💼", "ipa": "/ˈbɪz.nɪs.wʊm.ən/" }
+  { "word": "businesswoman", "emoji": "👩‍💼", "ipa": "/ˈbɪz.nɪs.wʊm.ən/" },
   { "word": "busy", "emoji": "🐝", "ipa": "/ˈbɪz.i/" },
   { "word": "but", "emoji": "☝️", "ipa": "/bʌt/" },
   { "word": "butt", "emoji": "🍑", "ipa": "/bʌt/" },
@@ -407,7 +407,7 @@
   { "word": "buy", "emoji": "🛒", "ipa": "/baɪ/" },
   { "word": "buyer", "emoji": "🛍️", "ipa": "/ˈbaɪ.ɚ/" },
   { "word": "by", "emoji": "🚶", "ipa": "/baɪ/" },
-  { "word": "bye", "emoji": "👋", "ipa": "/baɪ/" }
+  { "word": "bye", "emoji": "👋", "ipa": "/baɪ/" },
   { "word": "c.", "emoji": "©️", "ipa": "/siː/" },
   { "word": "cabinet", "emoji": "🗄️", "ipa": "/ˈkæb.ɪ.nət/" },
   { "word": "cable", "emoji": "🔌", "ipa": "/ˈkeɪ.bəl/" },
@@ -507,7 +507,7 @@
   { "word": "chop", "emoji": "🪓", "ipa": "/tʃɑːp/" },
   { "word": "church", "emoji": "⛪", "ipa": "/tʃɝːtʃ/" },
   { "word": "cigarette", "emoji": "🚬", "ipa": "/ˌsɪɡ.əˈret/" },
-  { "word": "circle", "emoji": "⭕", "ipa": "/ˈsɝː.kəl/" }
+  { "word": "circle", "emoji": "⭕", "ipa": "/ˈsɝː.kəl/" },
   { "word": "circumstance", "emoji": "🤷", "ipa": "/ˈsɝː.kəm.stæns/" },
   { "word": "citizen", "emoji": "🛂", "ipa": "/ˈsɪt̬.ə.zən/" },
   { "word": "city", "emoji": "🏙️", "ipa": "/ˈsɪt̬.i/" },
@@ -607,7 +607,7 @@
   { "word": "confirm", "emoji": "✔️", "ipa": "/kənˈfɝːm/" },
   { "word": "conflict", "emoji": "⚔️", "ipa": "/ˈkɑːn.flɪkt/" },
   { "word": "confront", "emoji": "😠", "ipa": "/kənˈfrʌnt/" },
-  { "word": "confuse", "emoji": "😵", "ipa": "/kənˈfjuːz/" }
+  { "word": "confuse", "emoji": "😵", "ipa": "/kənˈfjuːz/" },
   { "word": "confused", "emoji": "😕", "ipa": "/kənˈfjuːzd/" },
   { "word": "confusing", "emoji": "🌀", "ipa": "/kənˈfjuː.zɪŋ/" },
   { "word": "confusion", "emoji": "❓", "ipa": "/kənˈfjuː.ʒən/" },
@@ -707,7 +707,7 @@
   { "word": "crop", "emoji": "🌾", "ipa": "/krɑːp/" },
   { "word": "cross", "emoji": "❌", "ipa": "/krɑːs/" },
   { "word": "crowd", "emoji": "👥", "ipa": "/kraʊd/" },
-  { "word": "crowded", "emoji": "🫂", "ipa": "/ˈkraʊ.dɪd/" }
+  { "word": "crowded", "emoji": "🫂", "ipa": "/ˈkraʊ.dɪd/" },
   { "word": "crown", "emoji": "👑", "ipa": "/kraʊn/" },
   { "word": "crucial", "emoji": "❗", "ipa": "/ˈkruː.ʃəl/" },
   { "word": "cruel", "emoji": "😈", "ipa": "/ˈkruː.əl/" },
@@ -807,7 +807,7 @@
   { "word": "derive", "emoji": "🧬", "ipa": "/dɪˈraɪv/" },
   { "word": "derive from", "emoji": "🌳", "ipa": "/dɪˈraɪv frəm/" },
   { "word": "describe", "emoji": "🗣️", "ipa": "/dɪˈskraɪb/" },
-  { "word": "description", "emoji": "📝", "ipa": "/dɪˈskrɪp.ʃən/" }
+  { "word": "description", "emoji": "📝", "ipa": "/dɪˈskrɪp.ʃən/" },
   { "word": "desert", "emoji": "🏜️", "ipa": "/ˈdez.ɚt/" },
   { "word": "deserve", "emoji": "🏅", "ipa": "/dɪˈzɝːv/" },
   { "word": "design", "emoji": "🎨", "ipa": "/dɪˈzaɪn/" },
@@ -907,7 +907,7 @@
   { "word": "downstairs", "emoji": "🪜", "ipa": "/ˌdaʊnˈsterz/" },
   { "word": "downtown", "emoji": "🏙️", "ipa": "/ˌdaʊnˈtaʊn/" },
   { "word": "downward", "emoji": "📉", "ipa": "/ˈdaʊn.wɚd/" },
-  { "word": "dozen", "emoji": "🥚", "ipa": "/ˈdʌz.ən/" }
+  { "word": "dozen", "emoji": "🥚", "ipa": "/ˈdʌz.ən/" },
   { "word": "Dr.", "emoji": "👨‍⚕️", "ipa": "/ˈdɑːk.tɚ/" },
   { "word": "draft", "emoji": "📝", "ipa": "/dræft/" },
   { "word": "drag", "emoji": "🖐️", "ipa": "/dræɡ/" },
@@ -937,7 +937,7 @@
   { "word": "dust", "emoji": "💨", "ipa": "/dʌst/" },
   { "word": "duty", "emoji": "👮", "ipa": "/ˈduː.t̬i/" },
   { "word": "DVD", "emoji": "📀", "ipa": "/ˌdiː.viːˈdiː/" },
-  { "word": "dying", "emoji": "🥀", "ipa": "/ˈdaɪ.ɪŋ/" }
+  { "word": "dying", "emoji": "🥀", "ipa": "/ˈdaɪ.ɪŋ/" },
   { "word": "each", "emoji": "🤲", "ipa": "/iːtʃ/" },
   { "word": "each other", "emoji": "🫂", "ipa": "/iːtʃ ˈʌð.ɚ/" },
   { "word": "eager", "emoji": "🤩", "ipa": "/ˈiː.ɡɚ/" },
@@ -1037,7 +1037,7 @@
   { "word": "environmental", "emoji": "♻️", "ipa": "/ɪnˌvaɪ.rənˈmen.t̬əl/" },
   { "word": "equal", "emoji": "🟰", "ipa": "/ˈiː.kwəl/" },
   { "word": "equally", "emoji": "⚖️", "ipa": "/ˈiː.kwəl.i/" },
-  { "word": "equipment", "emoji": "🛠️", "ipa": "/ɪˈkwɪp.mənt/" }
+  { "word": "equipment", "emoji": "🛠️", "ipa": "/ɪˈkwɪp.mənt/" },
   { "word": "equivalent", "emoji": "🟰", "ipa": "/ɪˈkwɪv.əl.ənt/" },
   { "word": "era", "emoji": "⏳", "ipa": "/ˈɪr.ə/" },
   { "word": "error", "emoji": "❌", "ipa": "/ˈer.ɚ/" },
@@ -1137,7 +1137,7 @@
   { "word": "family", "emoji": "👨‍👩‍👧‍👦", "ipa": "/ˈfæm.əl.i/" },
   { "word": "famous", "emoji": "🤩", "ipa": "/ˈfeɪ.məs/" },
   { "word": "fan", "emoji": "🌬️", "ipa": "/fæn/" },
-  { "word": "fancy", "emoji": "🎩", "ipa": "/ˈfæn.si/" }
+  { "word": "fancy", "emoji": "🎩", "ipa": "/ˈfæn.si/" },
   { "word": "far", "emoji": "📏", "ipa": "/fɑːr/" },
   { "word": "farm", "emoji": "🚜", "ipa": "/fɑːrm/" },
   { "word": "farmer", "emoji": "🧑‍🌾", "ipa": "/ˈfɑːr.mɚ/" },
@@ -1237,7 +1237,7 @@
   { "word": "fortune", "emoji": "🔮", "ipa": "/ˈfɔːr.tʃuːn/" },
   { "word": "forward", "emoji": "⏩", "ipa": "/ˈfɔːr.wɚd/" },
   { "word": "found", "emoji": "🔍", "ipa": "/faʊnd/" },
-  { "word": "foundation", "emoji": "🧱", "ipa": "/faʊnˈdeɪ.ʃən/" }
+  { "word": "foundation", "emoji": "🧱", "ipa": "/faʊnˈdeɪ.ʃən/" },
   { "word": "frame", "emoji": "🖼️", "ipa": "/freɪm/" },
   { "word": "free", "emoji": "🆓", "ipa": "/friː/" },
   { "word": "freedom", "emoji": "🕊️", "ipa": "/ˈfriː.dəm/" },
@@ -1359,7 +1359,7 @@
   { "word": "guilty", "emoji": "🫣", "ipa": "/ˈɡɪl.ti/" },
   { "word": "guitar", "emoji": "🎸", "ipa": "/ɡɪˈtɑːr/" },
   { "word": "gun", "emoji": "🔫", "ipa": "/ɡʌn/" },
-  { "word": "guy", "emoji": "👨", "ipa": "/ɡaɪ/" }
+  { "word": "guy", "emoji": "👨", "ipa": "/ɡaɪ/" },
   { "word": "habit", "emoji": "🔁", "ipa": "/ˈhæb.ɪt/" },
   { "word": "hair", "emoji": "💇‍♀️", "ipa": "/her/" },
   { "word": "hairdresser", "emoji": "💈", "ipa": "/ˈherˌdres.ɚ/" },
@@ -1459,7 +1459,7 @@
   { "word": "huge", "emoji": "🐘", "ipa": "/hjuːdʒ/" },
   { "word": "human", "emoji": "🧑", "ipa": "/ˈhjuː.mən/" },
   { "word": "humor", "emoji": "😂", "ipa": "/ˈhjuː.mɚ/" },
-  { "word": "humorous", "emoji": "🤣", "ipa": "/ˈhjuː.mɚ.əs/" }
+  { "word": "humorous", "emoji": "🤣", "ipa": "/ˈhjuː.mɚ.əs/" },
   { "word": "hungry", "emoji": "🤤", "ipa": "/ˈhʌŋ.ɡri/" },
   { "word": "hunt", "emoji": "🏹", "ipa": "/hʌnt/" },
   { "word": "hunting", "emoji": "🦌", "ipa": "/ˈhʌn.t̬ɪŋ/" },
@@ -1652,7 +1652,7 @@
   { "word": "knock", "emoji": "✊", "ipa": "/nɑːk/" },
   { "word": "knot", "emoji": "🪢", "ipa": "/nɑːt/" },
   { "word": "know", "emoji": "🧠", "ipa": "/noʊ/" },
-  { "word": "knowledge", "emoji": "📚", "ipa": "/ˈnɑː.lɪdʒ/" }
+  { "word": "knowledge", "emoji": "📚", "ipa": "/ˈnɑː.lɪdʒ/" },
   { "word": "l", "emoji": "🔠", "ipa": "/el/" },
   { "word": "label", "emoji": "🏷️", "ipa": "/ˈleɪ.bəl/" },
   { "word": "labor", "emoji": "👷", "ipa": "/ˈleɪ.bɚ/" },
@@ -1852,7 +1852,7 @@
   { "word": "mine", "emoji": "⛏️", "ipa": "/maɪn/" },
   { "word": "mineral", "emoji": "🪨", "ipa": "/ˈmɪn.ɚ.əl/" },
   { "word": "minimum", "emoji": "⬇️", "ipa": "/ˈmɪn.ə.məm/" },
-  { "word": "minister", "emoji": "👨‍💼", "ipa": "/ˈmɪn.ə.stɚ/" }
+  { "word": "minister", "emoji": "👨‍💼", "ipa": "/ˈmɪn.ə.stɚ/" },
   { "word": "ministry", "emoji": "🏛️", "ipa": "/ˈmɪn.ə.stri/" },
   { "word": "minor", "emoji": "👧", "ipa": "/ˈmaɪ.nɚ/" },
   { "word": "minority", "emoji": "👥", "ipa": "/maɪˈnɔːr.ə.t̬i/" },
@@ -1985,7 +1985,7 @@
   { "word": "number", "emoji": "🔢", "ipa": "/ˈnʌm.bɚ/" },
   { "word": "numerous", "emoji": "➕", "ipa": "/ˈnuː.mɚ.əs/" },
   { "word": "nurse", "emoji": "👩‍⚕️", "ipa": "/nɝːs/" },
-  { "word": "nut", "emoji": "🥜", "ipa": "/nʌt/" }
+  { "word": "nut", "emoji": "🥜", "ipa": "/nʌt/" },
   { "word": "obey", "emoji": "🫡", "ipa": "/əˈbeɪ/" },
   { "word": "object", "emoji": "📦", "ipa": "/ˈɑːb.dʒekt/" },
   { "word": "objective", "emoji": "🎯", "ipa": "/əbˈjɛk.tɪv/" },
@@ -2185,7 +2185,7 @@
   { "word": "platform", "emoji": "🚉", "ipa": "/ˈplæt.fɔːrm/" },
   { "word": "play", "emoji": "🎮", "ipa": "/pleɪ/" },
   { "word": "player", "emoji": "⚽", "ipa": "/ˈpleɪ.ɚ/" },
-  { "word": "pleasant", "emoji": "😊", "ipa": "/ˈplez.ənt/" }
+  { "word": "pleasant", "emoji": "😊", "ipa": "/ˈplez.ənt/" },
   { "word": "please", "emoji": "🙏", "ipa": "/pliːz/" },
   { "word": "pleased", "emoji": "😊", "ipa": "/pliːzd/" },
   { "word": "pleasure", "emoji": "✨", "ipa": "/ˈpleʒ.ɚ/" },
@@ -2338,7 +2338,7 @@
   { "word": "purpose", "emoji": "🎯", "ipa": "/ˈpɝː.pəs/" },
   { "word": "pursue", "emoji": "🏃", "ipa": "/pɚˈsuː/" },
   { "word": "push", "emoji": "➡️", "ipa": "/pʊʃ/" },
-  { "word": "put", "emoji": "📥", "ipa": "/pʊt/" }
+  { "word": "put", "emoji": "📥", "ipa": "/pʊt/" },
   { "word": "qualification", "emoji": "📜", "ipa": "/ˌkwɑː.lə.fəˈkeɪ.ʃən/" },
   { "word": "qualified", "emoji": "✅", "ipa": "/ˈkwɑː.lə.faɪd/" },
   { "word": "qualify", "emoji": "🏅", "ipa": "/ˈkwɑː.lə.faɪ/" },
@@ -2538,7 +2538,7 @@
   { "word": "runner", "emoji": "👟", "ipa": "/ˈrʌn.ɚ/" },
   { "word": "running", "emoji": "💨", "ipa": "/ˈrʌn.ɪŋ/" },
   { "word": "rural", "emoji": "🏞️", "ipa": "/ˈrʊr.əl/" },
-  { "word": "rush", "emoji": "💨", "ipa": "/rʌʃ/" }
+  { "word": "rush", "emoji": "💨", "ipa": "/rʌʃ/" },
   { "word": "sack", "emoji": "🛍️", "ipa": "/sæk/" },
   { "word": "sad", "emoji": "😢", "ipa": "/sæd/" },
   { "word": "sadly", "emoji": "😔", "ipa": "/ˈsæd.li/" },
@@ -2738,7 +2738,7 @@
   { "word": "social", "emoji": "👥", "ipa": "/ˈsoʊ.ʃəl/" },
   { "word": "society", "emoji": "🏘️", "ipa": "/səˈsaɪ.ə.t̬i/" },
   { "word": "sock", "emoji": "🧦", "ipa": "/sɑːk/" },
-  { "word": "soft", "emoji": "🧸", "ipa": "/sɑːft/" }
+  { "word": "soft", "emoji": "🧸", "ipa": "/sɑːft/" },
   { "word": "softly", "emoji": "🤫", "ipa": "/ˈsɑːft.li/" },
   { "word": "software", "emoji": "💻", "ipa": "/ˈsɑːft.wer/" },
   { "word": "soil", "emoji": "🌱", "ipa": "/sɔɪl/" },
@@ -2936,7 +2936,7 @@
   { "word": "symbol", "emoji": "☯️", "ipa": "/ˈsɪm.bəl/" },
   { "word": "sympathetic", "emoji": "🥺", "ipa": "/ˌsɪm.pəˈθet̬.ɪk/" },
   { "word": "sympathy", "emoji": "🤝", "ipa": "/ˈsɪm.pə.θi/" },
-  { "word": "system", "emoji": "⚙️", "ipa": "/ˈsɪs.təm/" }
+  { "word": "system", "emoji": "⚙️", "ipa": "/ˈsɪs.təm/" },
   { "word": "table", "emoji": "table", "ipa": "/ˈteɪ.bəl/" },
   { "word": "tablet", "emoji": "💊", "ipa": "/ˈtæb.lət/" },
   { "word": "tackle", "emoji": "🏈", "ipa": "/ˈtæk.əl/" },
@@ -3118,7 +3118,7 @@
   { "word": "twisted", "emoji": "🌀", "ipa": "/ˈtwɪs.tɪd/" },
   { "word": "type", "emoji": "⌨️", "ipa": "/taɪp/" },
   { "word": "typical", "emoji": "⚖️", "ipa": "/ˈtɪp.ɪ.kəl/" },
-  { "word": "typically", "emoji": "🔄", "ipa": "/ˈtɪp.ɪ.kəl.i/" }
+  { "word": "typically", "emoji": "🔄", "ipa": "/ˈtɪp.ɪ.kəl.i/" },
   { "word": "ugly", "emoji": "👹", "ipa": "/ˈʌɡ.li/" },
   { "word": "ultimate", "emoji": "🔝", "ipa": "/ˈʌl.tə.mət/" },
   { "word": "ultimately", "emoji": "🏁", "ipa": "/ˈʌl.tə.mət.li/" },
@@ -3159,7 +3159,7 @@
   { "word": "unkind", "emoji": "😈", "ipa": "/ʌnˈkaɪnd/" },
   { "word": "unknown", "emoji": "👤", "ipa": "/ʌnˈnoʊn/" },
   { "word": "unless", "emoji": "🚫", "ipa": "/ənˈles/" },
-  { "word": "unlike", "emoji": "≠", "ipa": "/ʌnˈlaɪk/" },
+  { "word": "unlike", "emoji": "},", "ipa": "/ʌnˈlaɪk/" },
   { "word": "unlikely", "emoji": "🤷", "ipa": "/ʌnˈlaɪ.kli/" },
   { "word": "unload", "emoji": "📦", "ipa": "/ʌnˈloʊd/" },
   { "word": "unlucky", "emoji": "📉", "ipa": "/ʌnˈlʌk.i/" },
