@@ -1,5 +1,4 @@
 {
-  {
   "homepage": "https://Kamoratraks.github.io/Eng-3000/",
   "name": "oxford-flashcards",
   "private": true,
@@ -10,16 +9,6 @@
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
-  },
-  "name": "oxford-flashcards",
-  "private": true,
-  "version": "0.0.0",
-  "type": "module",
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
